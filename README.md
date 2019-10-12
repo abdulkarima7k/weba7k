@@ -1,4 +1,4 @@
 # weba7k
 mywebsite
 
-## NOTE
+## NOTES
